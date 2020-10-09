@@ -1,11 +1,11 @@
 <template>
-  <div class="about">
+  <div class="portfolio">
     <b-container>
- <navbar></navbar>
+       <navbar></navbar>
 
     <b-row>
            <b-col></b-col>
-            <b-col cols="10"><h1 class="h1-responsive">About</h1></b-col>
+            <b-col cols="10"><h1 class="h1-responsive">Portfolio</h1></b-col>
             <b-col></b-col>
          </b-row>
 

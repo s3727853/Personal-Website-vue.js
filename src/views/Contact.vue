@@ -1,11 +1,11 @@
 <template>
-  <div class="about">
+  <div class="contact">
     <b-container>
- <navbar></navbar>
+    <navbar></navbar>
 
     <b-row>
            <b-col></b-col>
-            <b-col cols="10"><h1 class="h1-responsive">About</h1></b-col>
+            <b-col cols="10"><h1 class="h1-responsive">Contact</h1></b-col>
             <b-col></b-col>
          </b-row>
 
@@ -19,7 +19,8 @@
              </h2></b-col>
           <b-col></b-col>
           </b-row>
-  </b-container>
+
+</b-container>
   </div>
 </template>
 
