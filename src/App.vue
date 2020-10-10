@@ -88,7 +88,10 @@ h2{
     font-family: 'Titillium Web', sans-serif;
     color: lightgray;
 }
-
+p {
+  font-family: 'Titillium Web', sans-serif;
+  color: lightgray;
+}
 .h1-responsive,
 .firstLine,
 .secondLine {
@@ -100,6 +103,9 @@ h2{
 .menu-text {
   font-size: calc(50% + 0.6vw + 0.6vh);
   padding-right: 4vw;
+}
+.p-responsive {
+   font-size: calc(50% + 0.5vw + 0.5vh);
 }
 
 ul {
