@@ -37,6 +37,10 @@
             </b-col>
           <b-col></b-col>
           </b-row>
+
+          <b-row>
+            <b-col cols="8" id="construction">Site under development</b-col>
+          </b-row>
   
         </b-container>
     </div>
@@ -57,6 +61,16 @@ export default {
 </script>
 
 <style>
+
+#construction {
+  font-size: calc(50% + 0.5vw + 0.5vh);
+  color: yellow;
+  position: absolute;
+  top: 0;
+  text-align: center;
+ 
+  
+}
  .home {
    padding-top: 20vh;
  }

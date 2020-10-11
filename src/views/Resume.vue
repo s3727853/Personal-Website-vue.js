@@ -36,15 +36,15 @@
             <p class="p2-responsive">2018 - 2021</p>
             <p class="p2-responsive">Royal Melbourne Institute of Tehnology</p>
             <p class="p2-responsive">&#8594; Minoring in Web Design</p>
-            <p class="p2-responsive">&#8594; Strong focus on programming</p>
+            <!-- <p class="p2-responsive">&#8594; Strong focus on programming</p> -->
 
             <b-row class="form-group"></b-row>
 
             <p class="p-responsive education-title">Master of Cloud Computing and Virtualisation</p>
             <p class="p2-responsive">2021 - 2022</p>
             <p class="p2-responsive">Charles Sturt University</p>
-            <p class="p2-responsive">&#8594; Cloud Environments</p>
-            <p class="p2-responsive">&#8594; Focus on Amazon Web Services</p>
+            <!-- <p class="p2-responsive">&#8594; Cloud Environments</p>
+            <p class="p2-responsive">&#8594; Focus on Amazon Web Services</p> -->
 
           </b-col>
           <b-col cols="6">
