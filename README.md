@@ -1,5 +1,7 @@
 # portfolio
 
+Live at: https://je-it.com/
+
 ## Project setup
 ```
 npm install
