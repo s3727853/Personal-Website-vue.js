@@ -11,13 +11,12 @@
 
           <b-row class="form-group"></b-row>
           <b-row>
-            <b-col></b-col>
-           <b-col cols="10"> <h2 class="h2-responsive">
-             
-             Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-             
-             </h2></b-col>
-          <b-col></b-col>
+            <b-col cols="2"></b-col>
+            <b-col cols="10"> <h2 class="p-responsive"> 
+             Some of the noteworthy projects I have undertaken as part of my studies (TODO).
+             </h2>
+             </b-col>
+          <b-col cols="2"></b-col>
           </b-row>
   </b-container>
   </div>
@@ -31,3 +30,15 @@ export default {
   
 }
 </script>
+
+<style scoped>
+.h1-responsive {
+  text-align: center;
+}
+.p-responsive {
+   font-size: calc(50% + 0.4vw + 0.4vh);
+}
+p {
+  margin-bottom: 0;
+}
+</style>

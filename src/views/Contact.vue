@@ -13,8 +13,7 @@
           <b-row>
             <b-col></b-col>
            <b-col cols="10"> <h2 class="h2-responsive">
-             
-             Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+             Contact form: TODO
              
              </h2></b-col>
           <b-col></b-col>
@@ -32,3 +31,14 @@ export default {
   
 }
 </script>
+<style scoped>
+.h1-responsive {
+  text-align: center;
+}
+.p-responsive {
+   font-size: calc(50% + 0.4vw + 0.4vh);
+}
+p {
+  margin-bottom: 0;
+}
+</style>

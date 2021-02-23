@@ -29,7 +29,7 @@
             <b-col></b-col>
            <b-col cols="10">
              <ul id="navigation">
-                <router-link to="resume"><li class="menu-text">Resume</li></router-link>
+                <router-link to="resume"><li class="menu-text">Qualifications</li></router-link>
                 <router-link to="portfolio"><li class="menu-text">Portfolio</li></router-link>
                 <router-link to="about"><li class="menu-text">About</li></router-link>
                 <router-link to="contact"><li class="menu-text">Contact</li></router-link>
@@ -37,11 +37,6 @@
             </b-col>
           <b-col></b-col>
           </b-row>
-
-          <b-row>
-            <b-col cols="8" id="construction">Site under development</b-col>
-          </b-row>
-  
         </b-container>
     </div>
         
@@ -62,15 +57,6 @@ export default {
 
 <style>
 
-#construction {
-  font-size: calc(50% + 0.5vw + 0.5vh);
-  color: yellow;
-  position: absolute;
-  top: 0;
-  text-align: center;
- 
-  
-}
  .home {
    padding-top: 20vh;
  }
@@ -121,15 +107,10 @@ h3{
 
 
 
-/* ul {
-    position: relative;
-    display: block;
-} */
-
 li {
-    /* display: inline;
+    display: inline;
     text-align: center;
-    padding-right: 2vw; */
+    padding-right: 2vw;
     text-decoration: none; 
     font-family: 'Titillium Web', sans-serif; 
     font-weight: 900;
